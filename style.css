@@ -1,0 +1,30 @@
+.name{
+    text-align: center;
+    font-family: 'DM Mono', monospace;
+    font-weight: bold;
+    font-size: 30px;
+    color: whitesmoke;
+    text-decoration: none;
+    position: relative;
+    top: 233px;
+    -webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+
+
+
+
+}
+.img{
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 37px;
+    height: 37px;
+    
+
+
+
+
+}
