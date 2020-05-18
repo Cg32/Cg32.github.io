@@ -1,3 +1,24 @@
+html, body { min-height: 100vh; }
+
+}
+#container{
+    width: 100vw;
+    height: 100vh;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+
+
+}
+body{
+
+    background-color: #141414;
+}
+
 .name{
     text-align: center;
     font-family: 'DM Mono', monospace;
@@ -16,14 +37,30 @@
 
 
 }
-.img{
-    display: inline-block;
+#github{
+    width: 30px;
+    height: 30px;
+    margin: auto;
+}
+#linkedin{
+    width: 30px;
+    height: 30px;
+    margin: auto;
+}
+#mail{
+    width: 32px;
+    height: 30px;
+    margin: auto;
+
+}
+#menu{
+    width: 110px;
+    height: 34px;
     margin-left: auto;
     margin-right: auto;
-    width: 37px;
-    height: 37px;
-    
-
+    margin-top: 241px;
+    align-items: center;
+    display: block;
 
 
 
